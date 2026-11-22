@@ -1,0 +1,14 @@
+# Render Blueprint. Secrets live in config.js (see the warning at the top
+# of that file), so no envVars are needed here.
+#
+# There is no database to provision: data lives in Cloud Firestore, which
+# is free on Firebase's Spark plan and uses the same service account
+# already configured in config.js.
+services:
+  - type: web
+    name: book-marketplace-backend
+    runtime: node
+    plan: free
+    buildCommand: npm install
+    startCommand: npm start
+    healthCheckPath: /health

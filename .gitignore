@@ -1,0 +1,11 @@
+node_modules/
+*.log
+.DS_Store
+firebase-service-account.json
+
+# config.js now holds real API keys/secrets directly (see the warning at
+# the top of that file). Keep it out of git unless your repo is private
+# and you've deliberately decided that's fine. For Render deployment
+# without committing it, use Render's "Secret Files" feature instead —
+# see the comment block at the top of config.js.
+config.js
