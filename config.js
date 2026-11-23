@@ -88,10 +88,10 @@ module.exports = {
     privateKey: `-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQDRbVW6a4rMACFv\ntTzlVbng1xPGK6MLYTN3Up/tTMkkBC8Top5VFqxFPVjj2wisY6Vemro5E0dtrbGv\nVtIrat4WiUi/E3O2F3e6PwHYsJb07gbH5eubUM+E4vMK/m5blPX6Uf3NTBdAxfKi\n/8hlJL1VJlVD4FLNnSRFsPdEpfRBFfEdjAhUijrr3e7qtIAdvsM4Trb+LbArR4BT\nFK16M7IQv+msOVxf1ME7swS0yxphE/FLmFgXTH04Z5W43RKRbFWWuHDaOUwQCjgl\nlvGkjJeTPB/u44rgzkKdPlnbjwgPUd1sRSxpjJU0VYgCfGejm3NiX2Fieq77UuXH\nz/GgNzMTAgMBAAECggEADuvw30L5VTavKzPpHlgA0fXRGV4TlGR9E8Pl1DUT4caQ\niiAckuh2JsrLshRxpkLFThvNJ/LpNHXbQqh3ehN3tnhaoA6lQHSkmbcSjRtr7hCl\nmAmYQ207E/dNpNtjBpBzBD5iTIXe5EUWWCnMX/SBrvb3vUnW7IKFSpfkzlXatOZX\nzR1F5CFWIEEJR8jN6RkS2Vekn/2ybx334vYX9vOuak7rnd6fqxU+kXxHxV/Dw6RM\nOBjn5u7f81TFY06dsSFt97/MNzlxrwmPgSbGQm7HyRCbNvbv/B32s1b+IPpr20ke\nVrjpGsKbviq15RL/maTskWON49cHEtESgbsIkuvaMQKBgQDxRhp1hKD64Bj0CL3a\nQ+J3QR5PuR4r8dPR2yRT4i1/xmcsupHpc86XsnSzueDyazSyzxlFH2w2m7lRU7SX\n/D+0AjqPnVyvp7Izti2tWqmKfbprhbWPXn39WrF7ADcn3Kgfh9Da6vW4D38obzjo\nRaSFyL32wQUCI/0LERkkZrqckQKBgQDeNaCAna4UyPUrFSoP27m0rwqTpG+8ielH\nSzspQ51obfa3lS40MTBsU40/pbdotmj4ICqJJmECNT5OCjSDQj8g+xuAFrISm91m\nxw8rKv3SExmwRIyHaqHpzBC5P84jz9EnPsNUOfAr9yvzM0XfcCMoyvAZ032vJvyH\nT15vspG3YwKBgAzO0uLAKqeGs+xodmOazO/Vth03T4G3sa3nOzN0w0OQLbPzJ4HE\nEwh8gbN0v5s+06pWUhoYQ+9WLu1BS0nyKxOMNr2e9eehOFWEa0JTmMJwUDAbBftZ\nYcjMQrWr2kG0dfxOgmjMpkSiFfb4iIXUBJrRgDwUHQbzECDBRJtpFKjxAoGABfeq\nt8mEQ0qiSuXmm0ZrVk7dGdnwpj+N5DxA+nq2X3eUiJmZBA3OHxqfUHZC1q0PZJp4\nifZd5JFJew8LGftNdrVHp8j0P0uwRnJSFfaxmlKo/fLZU0mpz32LdW4hOxT5qPQm\niryDlqqso3tdBQMd7pqEmCz10x5Y6clX3+gLwcECgYB8mu8wTG4bEyIt3tueA/H8\nhPzEHstQ/aRwnt/kmC1tjhlH4ntgSG3cirkBCzXRyYbnSeRX/Ea+m0Xcl6X0jhLk\nLDRfT0hGO/B+5ORRCYN6MggwVNfV6C8H2lv5+oRJz7bwzKgQaiakay61VCsL7BnD\nTi35XvbbKzzaZv0eICVPMw==\n-----END PRIVATE KEY-----\n`,
   },
 
-  aws: {
+    aws: {
     region: 'us-east-1',
-    accessKeyId: 'YOUR_AWS_ACCESS_KEY_ID',
-    secretAccessKey: 'YOUR_AWS_SECRET_ACCESS_KEY',
+    accessKeyId: 'AKIAVLM3L2TOKRCPRP23',
+    secretAccessKey: '36HC58I+xPNuNTf5ENXUSl53VztnTKygIsQxY+WL',
     bucketName: 'bookstore-private-assets',
   },
 
