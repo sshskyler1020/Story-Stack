@@ -80,7 +80,7 @@ module.exports = {
   // project_id, client_email, and private_key from it into the three
   // fields below.
   firebase: {
-    projectId: 'YOUR_PROJECT_ID',
+    projectId: 'story-stack-474be',
     clientEmail: 'firebase-adminsdk-xxxxx@YOUR_PROJECT_ID.iam.gserviceaccount.com',
     // Paste the key with REAL line breaks, exactly as shown here — a
     // template literal (backticks) supports actual newlines, so unlike
