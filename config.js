@@ -47,7 +47,7 @@ module.exports = {
     // Used to build Stripe Connect's refresh_url/return_url, which have
     // to be full URLs pointing back at THIS server (not the frontend)
     // so it can process the onboarding result before redirecting onward.
-    backendUrl: 'https://your-backend-service.onrender.com',
+    backendUrl: 'https://story-stack-102d.onrender.com',
 
     // A shared secret only you and your external scheduler know — required
     // in an x-cron-secret header to call POST /api/cron/process-preorders.
