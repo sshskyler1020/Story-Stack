@@ -81,7 +81,7 @@ module.exports = {
   // fields below.
   firebase: {
     projectId: 'story-stack-474be',
-    clientEmail: 'firebase-adminsdk-xxxxx@YOUR_PROJECT_ID.iam.gserviceaccount.com',
+    clientEmail: 'firebase-adminsdk-fbsvc@story-stack-474be.iam.gserviceaccount.com',
     // Paste the key with REAL line breaks, exactly as shown here — a
     // template literal (backticks) supports actual newlines, so unlike
     // an environment variable, there's no \n-escaping to worry about.
