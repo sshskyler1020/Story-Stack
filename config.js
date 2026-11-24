@@ -106,12 +106,12 @@ module.exports = {
 
   lulu: {
     apiBaseUrl: 'https://api.lulu.com',
-    clientKey: 'YOUR_LULU_CLIENT_KEY',
-    clientSecret: 'YOUR_LULU_CLIENT_SECRET',
+    clientKey: 'bb5066c7-03a6-44ea-8ef1-2fac106b8f59',
+    clientSecret: 'QtongB7l4tcZjlNd9tgEn2G3mcrbZ3eF',
     // Required by Lulu on every print job — this is YOUR contact email
     // for questions about the print job itself (a developer or business
     // owner's inbox), not the buyer's email. Lulu will reach out here if
     // something needs attention with an order.
-    contactEmail: 'YOUR_EMAIL@example.com',
+    contactEmail: 'sshskyler@gmail.com',
   },
 };
