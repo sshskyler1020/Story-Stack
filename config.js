@@ -54,7 +54,7 @@ module.exports = {
     // Generate any long random string for this (e.g. run
     // `openssl rand -hex 32` locally) — it's not tied to any external
     // service, just a password only your scheduler should know.
-    cronSecret: 'CHANGE_ME_TO_A_LONG_RANDOM_STRING',
+    cronSecret: '1234567890111213141516171819202122232425262728293031323334353637383940',
 
     // Comma-free array is easier to edit here than a comma-joined string.
     // Add every Google Sites / embedding origin allowed to call this API.
