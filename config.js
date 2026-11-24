@@ -68,7 +68,7 @@ module.exports = {
     //     a fixed address, so listing the exact one isn't reliable.
     allowedOrigins: [
       'https://sites.google.com',
-      'https://your-site.example.com',
+      'https://sshskyler1020.github.io',
       '.googleusercontent.com', // uncomment if your embed's real
       //                           // origin (see Render logs) is a
       //                           // googleusercontent.com subdomain
