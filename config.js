@@ -69,7 +69,7 @@ module.exports = {
     allowedOrigins: [
       'https://sites.google.com',
       'https://your-site.example.com',
-      // '.googleusercontent.com', // uncomment if your embed's real
+      '.googleusercontent.com', // uncomment if your embed's real
       //                           // origin (see Render logs) is a
       //                           // googleusercontent.com subdomain
     ],
@@ -96,9 +96,9 @@ module.exports = {
   },
 
   stripe: {
-    secretKey: 'sk_live_xxx',
+    secretKey: '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',
     // From Stripe Dashboard -> Developers -> Webhooks -> your endpoint -> "Signing secret".
-    webhookSecret: 'whsec_xxx',
+    webhookSecret: 'whsec_BkPZhhuCWQMMCH38ruyqSS2sQg9lLePW',
     platformCommissionPercent: 20,
     checkoutSuccessUrl: 'https://your-site.example.com/success',
     checkoutCancelUrl: 'https://your-site.example.com/cancel',
